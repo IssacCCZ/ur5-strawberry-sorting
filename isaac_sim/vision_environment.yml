@@ -1,0 +1,15 @@
+name: hw2_vision
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cpu
+      - torch==2.7.1+cpu
+      - torchvision==0.22.1+cpu
+      - numpy==1.26.4
+      - opencv-python==4.11.0.86
+      - ultralytics==8.3.203
+      - dill==0.4.1

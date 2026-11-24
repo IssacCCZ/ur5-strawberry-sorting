@@ -1,0 +1,3 @@
+# Only for a separate, ordinary Python environment. Isaac already ships pxr.
+-r requirements.txt
+usd-core>=24.11,<27

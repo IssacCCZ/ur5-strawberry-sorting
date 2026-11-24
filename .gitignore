@@ -1,0 +1,6 @@
+src/code
+isaac_sim/output/
+isaac_sim/generated/
+.venv*/
+__pycache__/
+*.py[cod]

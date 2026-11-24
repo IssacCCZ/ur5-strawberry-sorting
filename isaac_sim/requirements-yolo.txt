@@ -1,0 +1,6 @@
+# Optional; keep neural-network dependencies out of the basic scene demo.
+ultralytics==8.3.203
+dill==0.4.1
+# OpenCV 4.12+ requires NumPy 2, incompatible with Isaac Sim 5.1's bundled stack.
+opencv-python>=4.8,<4.12
+numpy>=1.26,<2

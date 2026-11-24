@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "mode": "yolo",
+  "sorted": [
+    "strawberry3",
+    "strawberry1",
+    "strawberry2"
+  ],
+  "physics_steps": 13950,
+  "error": null,
+  "fruit_positions": {
+    "strawberry1": [
+      -0.18000000715255737,
+      0.550000011920929,
+      0.0949999988079071
+    ],
+    "strawberry2": [
+      0.14000000059604645,
+      0.550000011920929,
+      0.0949999988079071
+    ],
+    "strawberry3": [
+      0.2199999988079071,
+      0.550000011920929,
+      0.0949999988079071
+    ]
+  }
+}
